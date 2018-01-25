@@ -1,2 +1,2 @@
 # Twitter_Project
-Twitter News Aggregot
+Twitter News Aggregator
